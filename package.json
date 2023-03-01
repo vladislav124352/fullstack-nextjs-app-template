@@ -14,6 +14,7 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
+		"test": "jest",
 		"lint": "next lint",
 		"prettier": "prettier --write .",
 		"prepare": "husky install"
